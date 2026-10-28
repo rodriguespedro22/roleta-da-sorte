@@ -2,7 +2,7 @@
 
 Promoção online em que o cliente informa seus dados, gira a roleta e ganha um cupom de desconto (ou cai na fatia "não ganhou"). Funciona em celular, tablet e computador.
 
-**Site no ar:** https://roleta-lebes.vercel.app
+**Status:** a campanha terminou e o ambiente foi desativado, então o site não está mais no ar.
 
 > **Estudo de caso.** O código é de uso interno de uma empresa e fica em um repositório privado. Aqui estão o problema, a arquitetura e as decisões técnicas.
 
